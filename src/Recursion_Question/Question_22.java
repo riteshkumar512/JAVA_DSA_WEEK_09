@@ -1,6 +1,6 @@
 package Recursion_Question;
 
-public class Qjuestion_22 {
+public class Question_22 {
     public static void main(String[] args) {
         int a=90;
         int b=30;
